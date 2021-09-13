@@ -1,4 +1,5 @@
- # Author: Leon Mwangi
+ # Author:
+ Leon Mwangi
  # Project name: 
  My portfolio
  # Project description: 
